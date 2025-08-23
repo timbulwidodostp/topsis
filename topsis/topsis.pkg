@@ -1,4 +1,11 @@
-D 'dfsummary': Performs the (Augmented) Dickey-Fuller unit-root test and reports a summary table for different lags Use dfsummary With STATA 19
+D 'topsis': Calculation comprehensive scores based on the entropy method or the entropy-TOPSIS method Use topsis With STATA 19
 D
-F dfsummary.ado
-F dfsummary.sthlp
+F cnuse.ado
+F cnuse.sthlp
+F cnuse_cn.sthlp
+F entropy.ado
+F entropy.sthlp
+F enwei.ado
+F enwei.sthlp
+F topsis.ado
+F topsis.sthlp
